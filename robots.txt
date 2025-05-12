@@ -1,1 +1,2 @@
-Sitemap: https://alt.jackson-spencer.com/sitemap.xml
+User-agent: *
+Disallow: /
